@@ -52,6 +52,7 @@ const Description = styled.div`
 font-size:20px;
 min-height:20px;
 margin-top:12px;
+max-width:760px;
 `;
 const Controls = styled.div`
   margin-left: 56px;

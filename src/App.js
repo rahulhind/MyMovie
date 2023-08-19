@@ -7,6 +7,8 @@ import Details from "./components/Details";
 import Login from "./components/Login";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 //Using Routes instead of Switch because of updation
+//npm install firebase
+//npm install firebase-tools
 function App() {
   return (
     <div className="App">
